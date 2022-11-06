@@ -1,7 +1,7 @@
 {
-  "name": "vue-electron",
-  "version": "1.0.6",
-  "description": "The vue plugin that attaches electron APIs to the Vue object, making them accessible to all components.",
+  "name": "@snz1/vue-electron",
+  "version": "2.0.0",
+  "description": "The vue plugin that attaches electron APIs to the Vue object, making them accessible to all components. Fork with support for @electron/remote",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
